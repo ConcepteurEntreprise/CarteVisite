@@ -43,24 +43,30 @@ Vous êtes intéressé par la contribution à **CarteVisite** ? Nous accueillons
 
 ## 📸 Exemple de Carte Visite
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 0 48%; border: 1px solid #ddd; padding: 10px; border-radius: 5px; text-align: center;">
-    <h4>Carte Visite 1</h4>
-    <img src="https://via.placeholder.com/300x200" alt="Carte Visite 1" style="max-width: 100%; border-radius: 5px;" />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+  <!-- Carte Visite 1 -->
+  <div style="border: 1px solid #ddd; padding: 15px;">
+    <h3>Carte Visite 1</h3>
     <p><strong>Nom:</strong> John Doe</p>
     <p><strong>Profession:</strong> Développeur Web</p>
     <p><strong>Email:</strong> johndoe@example.com</p>
     <p><strong>Téléphone:</strong> +123 456 789</p>
   </div>
-  <div style="flex: 0 48%; border: 1px solid #ddd; padding: 10px; border-radius: 5px; text-align: center;">
-    <h4>Carte Visite 2</h4>
-    <img src="https://via.placeholder.com/300x200" alt="Carte Visite 2" style="max-width: 100%; border-radius: 5px;" />
+
+  <!-- Carte Visite 2 -->
+  <div style="border: 1px solid #ddd; padding: 15px;">
+    <h3>Carte Visite 2</h3>
     <p><strong>Nom:</strong> Jane Smith</p>
     <p><strong>Profession:</strong> Designer Graphique</p>
     <p><strong>Email:</strong> janesmith@example.com</p>
     <p><strong>Téléphone:</strong> +987 654 321</p>
   </div>
+
 </div>
+
+N'hésitez pas à ajouter d'autres sections en fonction des spécificités de votre projet, telles que FAQ, Dépannage ou Informations de contact.
+
 
 ---
 
