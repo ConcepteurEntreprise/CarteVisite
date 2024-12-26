@@ -40,7 +40,6 @@ Bienvenue sur le wiki de **CarteVisite** ! Cet espace est dédié à vous fourni
 Vous êtes intéressé par la contribution à **CarteVisite** ? Nous accueillons les contributions de développeurs, de designers et de toute personne passionnée par l'amélioration de la plateforme. Consultez notre [guide de contribution](https://github.com/ConcepteurEntreprise/CarteVisite/wiki/_new#) pour plus de détails sur la manière de participer.
 
 ---
-
 ## 📸 Exemple de Carte Visite
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
@@ -66,8 +65,4 @@ Vous êtes intéressé par la contribution à **CarteVisite** ? Nous accueillons
 </div>
 
 N'hésitez pas à ajouter d'autres sections en fonction des spécificités de votre projet, telles que FAQ, Dépannage ou Informations de contact.
-
-
 ---
-
-N'hésitez pas à ajouter d'autres sections en fonction des spécificités de votre projet, telles que **FAQ**, **Dépannage** ou **Informations de contact**.
